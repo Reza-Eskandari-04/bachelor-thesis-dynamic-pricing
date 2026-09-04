@@ -19,8 +19,8 @@ This repository hosts the official development and documentation of my B.Sc. the
 ##  Official Proposal Document
 The complete academic proposal outlining the theoretical background, research gap, and methodology is available in both PDF and LaTeX formats:
 
--  **[Download Thesis Proposal (PDF)](docs/Proposal_English.pdf)**
--  **[View LaTeX Source Code](docs/Proposal_English.tex)**
+-  **[Download Thesis Proposal (PDF)](docs/proposal_English.pdf)**
+-  **[View LaTeX Source Code](docs/proposal_English.tex)**
 
 ---
 
